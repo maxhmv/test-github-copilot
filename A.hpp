@@ -13,4 +13,4 @@ int a;
 
 }
 
-#endif a_hpp
+#endif // a_hpp

@@ -11,6 +11,6 @@ private:
 int num;
 int b;
 
-}
+};
 
 #endif // b_hpp
